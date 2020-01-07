@@ -565,10 +565,11 @@
       ]
     },
     "Humanizer.Core/2.4.2": {
-      "sha512": "bdHOGpZNL92TebkGuaBe/RpxUrDeRDZQLRdFPEbM+miGV1V3ITmw6iZtGYzp44DUd60Fmw5mgHG2HaFSC4hQdQ==",
+      "sha512": "1ZKy7LHVYuhmM398hpvyWCcc2Fcx+hqiGYASELDthjWhVrsA6IabYnHRfkQFF6nGG6x4fA1D0StDX/U2Pj+FdQ==",
       "type": "package",
       "path": "humanizer.core/2.4.2",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "humanizer.core.2.4.2.nupkg.sha512",
         "humanizer.core.nuspec",
@@ -579,10 +580,11 @@
       ]
     },
     "Microsoft.Rest.ClientRuntime/2.3.10": {
-      "sha512": "a30J6t7LRkYx974tLaRnJc/dYZ1M7uhc5vdgULxdhL7HJNJydG7e+jyAVD15gK+vFR1i9MH+5Ch9t1zhb/Lp1g==",
+      "sha512": "JO9CzV1hvjtrIzq06gJ5nNv7GV24Xz3Y3O9vx7fCe7ndNA0NmD3fZ9JUgFir2UvJ2/+9vvCo/6RXjyfywvQQIw==",
       "type": "package",
       "path": "microsoft.rest.clientruntime/2.3.10",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/net452/Microsoft.Rest.ClientRuntime.dll",
         "lib/net452/Microsoft.Rest.ClientRuntime.runtimeconfig.json",
@@ -606,11 +608,12 @@
       ]
     },
     "Newtonsoft.Json/10.0.3": {
-      "sha512": "MoATFm6YJyk5OdqDdxDWfKe5dkY3Cygu0wrpKPH/LbWtMmSuD/3G/JIInt9sIJN7hKQOFYCIb2UjLc2vO5byQQ==",
+      "sha512": "hSXaFmh7hNCuEoC4XNY5DrRkLDzYHqPx/Ik23R4J86Z7PE/Y6YidhG602dFVdLBRSdG6xp9NabH3dXpcoxWvww==",
       "type": "package",
       "path": "newtonsoft.json/10.0.3",
+      "hasTools": true,
       "files": [
-        ".signature.p7s",
+        ".nupkg.metadata",
         "LICENSE.md",
         "lib/net20/Newtonsoft.Json.dll",
         "lib/net20/Newtonsoft.Json.xml",
@@ -926,15 +929,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\andu.morie\\.nuget\\packages\\": {}
+    "C:\\Users\\Superman\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "FaceRecognition",
       "projectName": "FaceRecognition",
-      "projectPath": "C:\\Users\\andu.morie\\OneDrive - UiPath\\Documents\\Work\\Demos\\FaceRecognitionFramework\\.local",
-      "packagesPath": "C:\\Users\\andu.morie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andu.morie\\OneDrive - UiPath\\Documents\\Work\\Demos\\FaceRecognitionFramework\\.local"
+      "projectPath": "D:\\00 Github\\uipath-face-recognition-framework\\.local",
+      "packagesPath": "C:\\Users\\Superman\\.nuget\\packages\\",
+      "outputPath": "D:\\00 Github\\uipath-face-recognition-framework\\.local"
     },
     "frameworks": {
       "net461": {
